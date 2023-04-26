@@ -1,0 +1,11 @@
+h3 {
+  color: blue;
+}
+body {
+  background-color: C7E9B0;
+}
+.myDiv {
+  border: 3px outset black;
+  background-color: antiquewhite;
+  text-align: center;
+}
